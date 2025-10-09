@@ -1,3 +1,3 @@
-# Welcome to my first Repository
-Hello, I am student 1
+# MyFirstRepository
 Student 1 starts a conflict line
+This line was added by Student 2
